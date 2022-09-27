@@ -33,6 +33,6 @@
     "hash-source": "1.0.4",
     "react-feather": "1.1.6",
     "styled-components": "4.3.1",
-    "yargs": "14.0.0"
+    "yargs": "14.2.3"
   }
 }
