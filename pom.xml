@@ -112,7 +112,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>apoorvnaik</id>
@@ -123,7 +123,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
         <developer>
@@ -347,7 +347,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>kalyanikashikar</id>
@@ -528,7 +528,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
         <developer>
@@ -540,7 +540,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>vranganathan</id>
@@ -551,7 +551,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
         <developer>
@@ -563,7 +563,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>svimal2106</id>
@@ -574,7 +574,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
     </developers>
@@ -679,7 +679,7 @@
         <antlr4.version>4.7</antlr4.version>
         <aopalliance.version>1.0</aopalliance.version>
         <aspectj.runtime.version>1.8.7</aspectj.runtime.version>
-        <atlas.surefire.options></atlas.surefire.options>
+        <atlas.surefire.options/>
         <calcite.version>1.16.0</calcite.version>
         <checkstyle.failOnViolation>false</checkstyle.failOnViolation>
         <codehaus.woodstox.stax2-api.version>3.1.4</codehaus.woodstox.stax2-api.version>
@@ -697,7 +697,7 @@
         <curator.version>4.3.0</curator.version>
         <doxia.version>1.8</doxia.version>
         <dropwizard-metrics>3.2.2</dropwizard-metrics>
-        <elasticsearch.version>7.16.2</elasticsearch.version>
+        <elasticsearch.version>8.2.0</elasticsearch.version>
         <entity.repository.impl>org.apache.atlas.repository.audit.InMemoryEntityAuditRepository</entity.repository.impl>
         <enunciate-maven-plugin.version>2.13.2</enunciate-maven-plugin.version>
         <failsafe.version>2.18.1</failsafe.version>
@@ -710,7 +710,7 @@
         <guice.version>4.1.0</guice.version>
         <hadoop.hdfs-client.version>${hadoop.version}</hadoop.hdfs-client.version>
         <hadoop.version>3.3.0</hadoop.version>
-        <hbase.version>2.3.3</hbase.version>
+        <hbase.version>2.4.0</hbase.version>
         <hive.version>3.1.0</hive.version>
         <hppc.version>0.8.1</hppc.version>
         <httpcomponents-httpclient.version>4.5.13</httpcomponents-httpclient.version>
@@ -723,7 +723,7 @@
         <javax.servlet.version>3.1.0</javax.servlet.version>
         <jersey-spring.version>1.19.4</jersey-spring.version>
         <jersey.version>1.19</jersey.version>
-        <jettison.version>1.3.7</jettison.version>
+        <jettison.version>1.5.1</jettison.version>
         <jetty-maven-plugin.stopWait>10</jetty-maven-plugin.stopWait>
         <jetty.version>9.4.31.v20200723</jetty.version>
         <joda-time.version>2.10.6</joda-time.version>
@@ -743,7 +743,7 @@
         <opencsv.version>5.0</opencsv.version>
         <paranamer.version>2.7</paranamer.version>
         <PermGen>64m</PermGen>
-        <poi-ooxml.version>4.1.1</poi-ooxml.version>
+        <poi-ooxml.version>5.1.0</poi-ooxml.version>
         <poi.version>4.1.1</poi.version>
         <project.build.dashboardv2.gruntBuild>build-minify</project.build.dashboardv2.gruntBuild>
         <project.build.dashboardv3.gruntBuild>build-minify</project.build.dashboardv3.gruntBuild>
@@ -762,7 +762,7 @@
         <solr.version>8.6.3</solr.version>
         <spray.version>1.3.1</spray.version>
         <spring.security.version>5.5.1</spring.security.version>
-        <spring.version>5.3.18</spring.version>
+        <spring.version>5.3.20</spring.version>
         <sqoop.version>1.4.6.2.3.99.0-195</sqoop.version>
         <storm.version>2.3.0</storm.version>
         <surefire.forkCount>2C</surefire.forkCount>
